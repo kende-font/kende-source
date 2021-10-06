@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1545818743
-ModificationTime: 1633503758
+ModificationTime: 1633510443
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -79,7 +79,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2021, Viktor Kovacs (kov.h.vik@gmail.com),+AAoA-with Reserved Font Name kende-fonts+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2021, Viktor Kovacs (kov.h.vik@gmail.com),+AAoA-with Reserved Font Name Kende-fonts and Kende+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
@@ -95,6 +95,7 @@ BeginChars: 138 138
 
 StartChar: .notdef
 Encoding: 125 -1 0
+GlifName: _notdef
 Width: 748
 Flags: W
 TtInstrs:
@@ -164,6 +165,7 @@ EndChar
 
 StartChar: space
 Encoding: 0 32 1
+GlifName: space
 Width: 1024
 Flags: W
 LayerCount: 2
@@ -173,6 +175,7 @@ EndChar
 
 StartChar: exclam
 Encoding: 1 33 2
+GlifName: exclam
 Width: 255
 Flags: W
 LayerCount: 2
@@ -194,6 +197,7 @@ EndChar
 
 StartChar: quotedbl
 Encoding: 2 34 3
+GlifName: quotedbl
 Width: 617
 Flags: W
 LayerCount: 2
@@ -215,6 +219,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 3 45 4
+GlifName: hyphen
 Width: 564
 Flags: W
 LayerCount: 2
@@ -231,6 +236,7 @@ EndChar
 
 StartChar: period
 Encoding: 4 46 5
+GlifName: period
 Width: 255
 Flags: W
 LayerCount: 2
@@ -247,6 +253,7 @@ EndChar
 
 StartChar: colon
 Encoding: 5 58 6
+GlifName: colon
 Width: 254
 Flags: W
 LayerCount: 2
@@ -268,6 +275,7 @@ EndChar
 
 StartChar: uni201F
 Encoding: 10 8223 7
+GlifName: uni201F_
 Width: 596
 Flags: W
 LayerCount: 2
@@ -299,6 +307,7 @@ EndChar
 
 StartChar: uni204F
 Encoding: 13 8271 8
+GlifName: uni204F_
 Width: 256
 Flags: W
 LayerCount: 2
@@ -325,6 +334,7 @@ EndChar
 
 StartChar: uni2E2E
 Encoding: 14 11822 9
+GlifName: uni2E_2E_
 Width: 1043
 Flags: W
 LayerCount: 2
@@ -366,6 +376,7 @@ EndChar
 
 StartChar: uni2E41
 Encoding: 15 11841 10
+GlifName: uni2E_41
 Width: 255
 Flags: W
 LayerCount: 2
@@ -387,6 +398,7 @@ EndChar
 
 StartChar: uni2E42
 Encoding: 16 11842 11
+GlifName: uni2E_42
 Width: 596
 Flags: W
 LayerCount: 2
@@ -418,6 +430,7 @@ EndChar
 
 StartChar: u10C80
 Encoding: 17 68736 12
+GlifName: u10C_80
 Width: 1209
 Flags: W
 LayerCount: 2
@@ -441,6 +454,7 @@ EndChar
 
 StartChar: u10C81
 Encoding: 18 68737 13
+GlifName: u10C_81
 Width: 1139
 Flags: W
 LayerCount: 2
@@ -464,6 +478,7 @@ EndChar
 
 StartChar: u10C82
 Encoding: 19 68738 14
+GlifName: u10C_82
 Width: 1297
 Flags: W
 LayerCount: 2
@@ -488,6 +503,7 @@ EndChar
 
 StartChar: u10C83
 Encoding: 20 68739 15
+GlifName: u10C_83
 Width: 1759
 Flags: W
 LayerCount: 2
@@ -608,6 +624,7 @@ EndChar
 
 StartChar: u10C84
 Encoding: 21 68740 16
+GlifName: u10C_84
 Width: 1461
 Flags: W
 LayerCount: 2
@@ -630,6 +647,7 @@ EndChar
 
 StartChar: u10C85
 Encoding: 22 68741 17
+GlifName: u10C_85
 Width: 1461
 Flags: W
 LayerCount: 2
@@ -658,6 +676,7 @@ EndChar
 
 StartChar: u10C86
 Encoding: 23 68742 18
+GlifName: u10C_86
 Width: 1444
 Flags: W
 LayerCount: 2
@@ -687,6 +706,7 @@ EndChar
 
 StartChar: u10C87
 Encoding: 24 68743 19
+GlifName: u10C_87
 Width: 1142
 Flags: W
 LayerCount: 2
@@ -711,6 +731,7 @@ EndChar
 
 StartChar: u10C88
 Encoding: 25 68744 20
+GlifName: u10C_88
 Width: 1267
 Flags: W
 LayerCount: 2
@@ -741,6 +762,7 @@ EndChar
 
 StartChar: u10C89
 Encoding: 26 68745 21
+GlifName: u10C_89
 Width: 1098
 Flags: W
 LayerCount: 2
@@ -784,6 +806,7 @@ EndChar
 
 StartChar: u10C8A
 Encoding: 27 68746 22
+GlifName: u10C_8A_
 Width: 1627
 Flags: W
 LayerCount: 2
@@ -866,6 +889,7 @@ EndChar
 
 StartChar: u10C8B
 Encoding: 28 68747 23
+GlifName: u10C_8B_
 Width: 1040
 Flags: W
 LayerCount: 2
@@ -898,6 +922,7 @@ EndChar
 
 StartChar: u10C8C
 Encoding: 29 68748 24
+GlifName: u10C_8C_
 Width: 1496
 Flags: W
 LayerCount: 2
@@ -955,6 +980,7 @@ EndChar
 
 StartChar: u10C8D
 Encoding: 30 68749 25
+GlifName: u10C_8D_
 Width: 1378
 Flags: W
 LayerCount: 2
@@ -978,6 +1004,7 @@ EndChar
 
 StartChar: u10C8E
 Encoding: 31 68750 26
+GlifName: u10C_8E_
 Width: 1142
 Flags: W
 LayerCount: 2
@@ -1010,6 +1037,7 @@ EndChar
 
 StartChar: u10C8F
 Encoding: 32 68751 27
+GlifName: u10C_8F_
 Width: 1253
 Flags: W
 LayerCount: 2
@@ -1049,6 +1077,7 @@ EndChar
 
 StartChar: u10C90
 Encoding: 33 68752 28
+GlifName: u10C_90
 Width: 1142
 Flags: W
 LayerCount: 2
@@ -1073,6 +1102,7 @@ EndChar
 
 StartChar: u10C91
 Encoding: 34 68753 29
+GlifName: u10C_91
 Width: 1142
 Flags: W
 LayerCount: 2
@@ -1093,6 +1123,7 @@ EndChar
 
 StartChar: u10C92
 Encoding: 35 68754 30
+GlifName: u10C_92
 Width: 953
 Flags: W
 LayerCount: 2
@@ -1112,6 +1143,7 @@ EndChar
 
 StartChar: u10C93
 Encoding: 36 68755 31
+GlifName: u10C_93
 Width: 1051
 Flags: W
 LayerCount: 2
@@ -1135,6 +1167,7 @@ EndChar
 
 StartChar: u10C94
 Encoding: 37 68756 32
+GlifName: u10C_94
 Width: 1471
 Flags: W
 LayerCount: 2
@@ -1157,6 +1190,7 @@ EndChar
 
 StartChar: u10C95
 Encoding: 38 68757 33
+GlifName: u10C_95
 Width: 1333
 Flags: W
 LayerCount: 2
@@ -1193,6 +1227,7 @@ EndChar
 
 StartChar: u10C96
 Encoding: 39 68758 34
+GlifName: u10C_96
 Width: 1798
 Flags: W
 LayerCount: 2
@@ -1220,6 +1255,7 @@ EndChar
 
 StartChar: u10C97
 Encoding: 40 68759 35
+GlifName: u10C_97
 Width: 1496
 Flags: W
 LayerCount: 2
@@ -1263,10 +1299,12 @@ SplineSet
  1105 191 1105 191 836 5 c 1,50,-1
  668 5 l 1,37,38
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: u10C98
 Encoding: 41 68760 36
+GlifName: u10C_98
 Width: 1109
 Flags: W
 LayerCount: 2
@@ -1296,6 +1334,7 @@ EndChar
 
 StartChar: u10C99
 Encoding: 42 68761 37
+GlifName: u10C_99
 Width: 912
 Flags: W
 LayerCount: 2
@@ -1326,6 +1365,7 @@ EndChar
 
 StartChar: u10C9A
 Encoding: 43 68762 38
+GlifName: u10C_9A_
 Width: 1045
 Flags: W
 LayerCount: 2
@@ -1361,6 +1401,7 @@ EndChar
 
 StartChar: u10C9B
 Encoding: 44 68763 39
+GlifName: u10C_9B_
 Width: 1399
 Flags: W
 LayerCount: 2
@@ -1414,6 +1455,7 @@ EndChar
 
 StartChar: u10C9C
 Encoding: 45 68764 40
+GlifName: u10C_9C_
 Width: 1409
 Flags: W
 LayerCount: 2
@@ -1458,6 +1500,7 @@ EndChar
 
 StartChar: u10C9D
 Encoding: 46 68765 41
+GlifName: u10C_9D_
 Width: 892
 Flags: W
 LayerCount: 2
@@ -1478,6 +1521,7 @@ EndChar
 
 StartChar: u10C9E
 Encoding: 47 68766 42
+GlifName: u10C_9E_
 Width: 1055
 Flags: W
 LayerCount: 2
@@ -1501,6 +1545,7 @@ EndChar
 
 StartChar: u10C9F
 Encoding: 48 68767 43
+GlifName: u10C_9F_
 Width: 1457
 Flags: W
 LayerCount: 2
@@ -1573,6 +1618,7 @@ EndChar
 
 StartChar: u10CA0
 Encoding: 49 68768 44
+GlifName: u10C_A_0
 Width: 1254
 Flags: W
 LayerCount: 2
@@ -1600,6 +1646,7 @@ EndChar
 
 StartChar: u10CA1
 Encoding: 50 68769 45
+GlifName: u10C_A_1
 Width: 1921
 Flags: W
 LayerCount: 2
@@ -1685,6 +1732,7 @@ EndChar
 
 StartChar: u10CA2
 Encoding: 51 68770 46
+GlifName: u10C_A_2
 Width: 1444
 Flags: W
 LayerCount: 2
@@ -1709,6 +1757,7 @@ EndChar
 
 StartChar: u10CA3
 Encoding: 52 68771 47
+GlifName: u10C_A_3
 Width: 1062
 Flags: W
 LayerCount: 2
@@ -1725,6 +1774,7 @@ EndChar
 
 StartChar: u10CA4
 Encoding: 53 68772 48
+GlifName: u10C_A_4
 Width: 1378
 Flags: W
 LayerCount: 2
@@ -1750,6 +1800,7 @@ EndChar
 
 StartChar: u10CA5
 Encoding: 54 68773 49
+GlifName: u10C_A_5
 Width: 491
 Flags: W
 LayerCount: 2
@@ -1766,6 +1817,7 @@ EndChar
 
 StartChar: u10CA6
 Encoding: 55 68774 50
+GlifName: u10C_A_6
 Width: 963
 Flags: W
 LayerCount: 2
@@ -1786,6 +1838,7 @@ EndChar
 
 StartChar: u10CA7
 Encoding: 56 68775 51
+GlifName: u10C_A_7
 Width: 1776
 Flags: W
 LayerCount: 2
@@ -1814,6 +1867,7 @@ EndChar
 
 StartChar: u10CA8
 Encoding: 57 68776 52
+GlifName: u10C_A_8
 Width: 1257
 Flags: W
 LayerCount: 2
@@ -1846,6 +1900,7 @@ EndChar
 
 StartChar: u10CA9
 Encoding: 58 68777 53
+GlifName: u10C_A_9
 Width: 1297
 Flags: W
 LayerCount: 2
@@ -1876,6 +1931,7 @@ EndChar
 
 StartChar: u10CAA
 Encoding: 59 68778 54
+GlifName: u10C_A_A_
 Width: 1492
 Flags: W
 LayerCount: 2
@@ -1905,6 +1961,7 @@ EndChar
 
 StartChar: u10CAB
 Encoding: 60 68779 55
+GlifName: u10C_A_B_
 Width: 1576
 Flags: W
 LayerCount: 2
@@ -1935,6 +1992,7 @@ EndChar
 
 StartChar: u10CAC
 Encoding: 61 68780 56
+GlifName: u10C_A_C_
 Width: 1658
 Flags: W
 LayerCount: 2
@@ -1989,6 +2047,7 @@ EndChar
 
 StartChar: u10CAD
 Encoding: 62 68781 57
+GlifName: u10C_A_D_
 Width: 1108
 Flags: W
 LayerCount: 2
@@ -2009,6 +2068,7 @@ EndChar
 
 StartChar: u10CAE
 Encoding: 63 68782 58
+GlifName: u10C_A_E_
 Width: 1444
 Flags: W
 LayerCount: 2
@@ -2033,6 +2093,7 @@ EndChar
 
 StartChar: u10CAF
 Encoding: 64 68783 59
+GlifName: u10C_A_F_
 Width: 1444
 Flags: W
 LayerCount: 2
@@ -2067,6 +2128,7 @@ EndChar
 
 StartChar: u10CB0
 Encoding: 65 68784 60
+GlifName: u10C_B_0
 Width: 1436
 Flags: W
 LayerCount: 2
@@ -2091,6 +2153,7 @@ EndChar
 
 StartChar: u10CB1
 Encoding: 66 68785 61
+GlifName: u10C_B_1
 Width: 1776
 Flags: W
 LayerCount: 2
@@ -2141,6 +2204,7 @@ EndChar
 
 StartChar: u10CB2
 Encoding: 67 68786 62
+GlifName: u10C_B_2
 Width: 1496
 Flags: W
 LayerCount: 2
@@ -2175,6 +2239,7 @@ EndChar
 
 StartChar: u10CC0
 Encoding: 68 68800 63
+GlifName: u10C_C_0
 Width: 1088
 Flags: W
 LayerCount: 2
@@ -2198,6 +2263,7 @@ EndChar
 
 StartChar: u10CC1
 Encoding: 69 68801 64
+GlifName: u10C_C_1
 Width: 1025
 Flags: W
 LayerCount: 2
@@ -2221,6 +2287,7 @@ EndChar
 
 StartChar: u10CC2
 Encoding: 70 68802 65
+GlifName: u10C_C_2
 Width: 1167
 Flags: W
 LayerCount: 2
@@ -2245,6 +2312,7 @@ EndChar
 
 StartChar: u10CC3
 Encoding: 71 68803 66
+GlifName: u10C_C_3
 Width: 1583
 Flags: W
 LayerCount: 2
@@ -2359,6 +2427,7 @@ EndChar
 
 StartChar: u10CC4
 Encoding: 72 68804 67
+GlifName: u10C_C_4
 Width: 1314
 Flags: W
 LayerCount: 2
@@ -2381,6 +2450,7 @@ EndChar
 
 StartChar: u10CC5
 Encoding: 73 68805 68
+GlifName: u10C_C_5
 Width: 1314
 Flags: W
 LayerCount: 2
@@ -2409,6 +2479,7 @@ EndChar
 
 StartChar: u10CC6
 Encoding: 74 68806 69
+GlifName: u10C_C_6
 Width: 1299
 Flags: W
 LayerCount: 2
@@ -2438,6 +2509,7 @@ EndChar
 
 StartChar: u10CC7
 Encoding: 75 68807 70
+GlifName: u10C_C_7
 Width: 1027
 Flags: W
 LayerCount: 2
@@ -2462,6 +2534,7 @@ EndChar
 
 StartChar: u10CC8
 Encoding: 76 68808 71
+GlifName: u10C_C_8
 Width: 1140
 Flags: W
 LayerCount: 2
@@ -2492,6 +2565,7 @@ EndChar
 
 StartChar: u10CC9
 Encoding: 77 68809 72
+GlifName: u10C_C_9
 Width: 988
 Flags: W
 LayerCount: 2
@@ -2538,6 +2612,7 @@ EndChar
 
 StartChar: u10CCA
 Encoding: 78 68810 73
+GlifName: u10C_C_A_
 Width: 1464
 Flags: W
 LayerCount: 2
@@ -2620,6 +2695,7 @@ EndChar
 
 StartChar: u10CCB
 Encoding: 79 68811 74
+GlifName: u10C_C_B_
 Width: 936
 Flags: W
 LayerCount: 2
@@ -2652,6 +2728,7 @@ EndChar
 
 StartChar: u10CCC
 Encoding: 80 68812 75
+GlifName: u10C_C_C_
 Width: 1346
 Flags: W
 LayerCount: 2
@@ -2706,6 +2783,7 @@ EndChar
 
 StartChar: u10CCD
 Encoding: 81 68813 76
+GlifName: u10C_C_D_
 Width: 1240
 Flags: W
 LayerCount: 2
@@ -2729,6 +2807,7 @@ EndChar
 
 StartChar: u10CCE
 Encoding: 82 68814 77
+GlifName: u10C_C_E_
 Width: 1027
 Flags: W
 LayerCount: 2
@@ -2761,6 +2840,7 @@ EndChar
 
 StartChar: u10CCF
 Encoding: 83 68815 78
+GlifName: u10C_C_F_
 Width: 1127
 Flags: W
 LayerCount: 2
@@ -2800,6 +2880,7 @@ EndChar
 
 StartChar: u10CD0
 Encoding: 84 68816 79
+GlifName: u10C_D_0
 Width: 1027
 Flags: W
 LayerCount: 2
@@ -2824,6 +2905,7 @@ EndChar
 
 StartChar: u10CD1
 Encoding: 85 68817 80
+GlifName: u10C_D_1
 Width: 1027
 Flags: W
 LayerCount: 2
@@ -2844,6 +2926,7 @@ EndChar
 
 StartChar: u10CD2
 Encoding: 86 68818 81
+GlifName: u10C_D_2
 Width: 857
 Flags: W
 LayerCount: 2
@@ -2863,6 +2946,7 @@ EndChar
 
 StartChar: u10CD3
 Encoding: 87 68819 82
+GlifName: u10C_D_3
 Width: 945
 Flags: W
 LayerCount: 2
@@ -2886,6 +2970,7 @@ EndChar
 
 StartChar: u10CD4
 Encoding: 88 68820 83
+GlifName: u10C_D_4
 Width: 1323
 Flags: W
 LayerCount: 2
@@ -2908,6 +2993,7 @@ EndChar
 
 StartChar: u10CD5
 Encoding: 89 68821 84
+GlifName: u10C_D_5
 Width: 1199
 Flags: W
 LayerCount: 2
@@ -2944,6 +3030,7 @@ EndChar
 
 StartChar: u10CD6
 Encoding: 90 68822 85
+GlifName: u10C_D_6
 Width: 1618
 Flags: W
 LayerCount: 2
@@ -2971,9 +3058,10 @@ EndChar
 
 StartChar: u10CD7
 Encoding: 91 68823 86
+GlifName: u10C_D_7
 Width: 1496
 VWidth: 1780
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -3015,10 +3103,12 @@ SplineSet
  1105 146 1105 146 836 -3 c 1,49,-1
  668 -3 l 1,37,38
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: u10CD8
 Encoding: 92 68824 87
+GlifName: u10C_D_8
 Width: 998
 Flags: W
 LayerCount: 2
@@ -3048,6 +3138,7 @@ EndChar
 
 StartChar: u10CD9
 Encoding: 93 68825 88
+GlifName: u10C_D_9
 Width: 820
 Flags: W
 LayerCount: 2
@@ -3077,6 +3168,7 @@ EndChar
 
 StartChar: u10CDA
 Encoding: 94 68826 89
+GlifName: u10C_D_A_
 Width: 940
 Flags: W
 LayerCount: 2
@@ -3111,6 +3203,7 @@ EndChar
 
 StartChar: u10CDB
 Encoding: 95 68827 90
+GlifName: u10C_D_B_
 Width: 1259
 Flags: W
 LayerCount: 2
@@ -3155,6 +3248,7 @@ EndChar
 
 StartChar: u10CDC
 Encoding: 96 68828 91
+GlifName: u10C_D_C_
 Width: 1268
 Flags: W
 LayerCount: 2
@@ -3198,6 +3292,7 @@ EndChar
 
 StartChar: u10CDD
 Encoding: 97 68829 92
+GlifName: u10C_D_D_
 Width: 802
 Flags: W
 LayerCount: 2
@@ -3218,6 +3313,7 @@ EndChar
 
 StartChar: u10CDE
 Encoding: 98 68830 93
+GlifName: u10C_D_E_
 Width: 949
 Flags: W
 LayerCount: 2
@@ -3241,6 +3337,7 @@ EndChar
 
 StartChar: u10CDF
 Encoding: 99 68831 94
+GlifName: u10C_D_F_
 Width: 1311
 Flags: W
 LayerCount: 2
@@ -3312,6 +3409,7 @@ EndChar
 
 StartChar: u10CE0
 Encoding: 100 68832 95
+GlifName: u10C_E_0
 Width: 1128
 Flags: W
 LayerCount: 2
@@ -3339,6 +3437,7 @@ EndChar
 
 StartChar: u10CE1
 Encoding: 101 68833 96
+GlifName: u10C_E_1
 Width: 1728
 Flags: W
 LayerCount: 2
@@ -3413,6 +3512,7 @@ EndChar
 
 StartChar: u10CE2
 Encoding: 102 68834 97
+GlifName: u10C_E_2
 Width: 1299
 Flags: W
 LayerCount: 2
@@ -3437,6 +3537,7 @@ EndChar
 
 StartChar: u10CE3
 Encoding: 103 68835 98
+GlifName: u10C_E_3
 Width: 955
 Flags: W
 LayerCount: 2
@@ -3453,6 +3554,7 @@ EndChar
 
 StartChar: u10CE4
 Encoding: 104 68836 99
+GlifName: u10C_E_4
 Width: 1240
 Flags: W
 LayerCount: 2
@@ -3478,6 +3580,7 @@ EndChar
 
 StartChar: u10CE5
 Encoding: 105 68837 100
+GlifName: u10C_E_5
 Width: 441
 Flags: W
 LayerCount: 2
@@ -3494,6 +3597,7 @@ EndChar
 
 StartChar: u10CE6
 Encoding: 106 68838 101
+GlifName: u10C_E_6
 Width: 866
 Flags: W
 LayerCount: 2
@@ -3514,6 +3618,7 @@ EndChar
 
 StartChar: u10CE7
 Encoding: 107 68839 102
+GlifName: u10C_E_7
 Width: 1598
 Flags: W
 LayerCount: 2
@@ -3542,6 +3647,7 @@ EndChar
 
 StartChar: u10CE8
 Encoding: 108 68840 103
+GlifName: u10C_E_8
 Width: 1131
 Flags: W
 LayerCount: 2
@@ -3574,6 +3680,7 @@ EndChar
 
 StartChar: u10CE9
 Encoding: 109 68841 104
+GlifName: u10C_E_9
 Width: 1167
 Flags: W
 LayerCount: 2
@@ -3604,6 +3711,7 @@ EndChar
 
 StartChar: u10CEA
 Encoding: 110 68842 105
+GlifName: u10C_E_A_
 Width: 1342
 Flags: W
 LayerCount: 2
@@ -3633,6 +3741,7 @@ EndChar
 
 StartChar: u10CEB
 Encoding: 111 68843 106
+GlifName: u10C_E_B_
 Width: 1418
 Flags: W
 LayerCount: 2
@@ -3663,6 +3772,7 @@ EndChar
 
 StartChar: u10CEC
 Encoding: 112 68844 107
+GlifName: u10C_E_C_
 Width: 1492
 Flags: W
 LayerCount: 2
@@ -3718,6 +3828,7 @@ EndChar
 
 StartChar: u10CED
 Encoding: 113 68845 108
+GlifName: u10C_E_D_
 Width: 997
 Flags: W
 LayerCount: 2
@@ -3738,6 +3849,7 @@ EndChar
 
 StartChar: u10CEE
 Encoding: 114 68846 109
+GlifName: u10C_E_E_
 Width: 1299
 Flags: W
 LayerCount: 2
@@ -3762,6 +3874,7 @@ EndChar
 
 StartChar: u10CEF
 Encoding: 115 68847 110
+GlifName: u10C_E_F_
 Width: 1299
 Flags: W
 LayerCount: 2
@@ -3796,6 +3909,7 @@ EndChar
 
 StartChar: u10CF0
 Encoding: 116 68848 111
+GlifName: u10C_F_0
 Width: 1292
 Flags: W
 LayerCount: 2
@@ -3820,6 +3934,7 @@ EndChar
 
 StartChar: u10CF1
 Encoding: 117 68849 112
+GlifName: u10C_F_1
 Width: 1598
 Flags: W
 LayerCount: 2
@@ -3870,6 +3985,7 @@ EndChar
 
 StartChar: u10CF2
 Encoding: 118 68850 113
+GlifName: u10C_F_2
 Width: 1346
 Flags: W
 LayerCount: 2
@@ -3904,6 +4020,7 @@ EndChar
 
 StartChar: u10CFA
 Encoding: 119 68858 114
+GlifName: u10C_F_A_
 Width: 491
 Flags: W
 LayerCount: 2
@@ -3920,6 +4037,7 @@ EndChar
 
 StartChar: u10CFB
 Encoding: 120 68859 115
+GlifName: u10C_F_B_
 Width: 1388
 Flags: W
 LayerCount: 2
@@ -3941,6 +4059,7 @@ EndChar
 
 StartChar: u10CFC
 Encoding: 121 68860 116
+GlifName: u10C_F_C_
 Width: 1577
 Flags: W
 LayerCount: 2
@@ -3965,6 +4084,7 @@ EndChar
 
 StartChar: u10CFD
 Encoding: 122 68861 117
+GlifName: u10C_F_D_
 Width: 1388
 Flags: W
 LayerCount: 2
@@ -3987,6 +4107,7 @@ EndChar
 
 StartChar: u10CFE
 Encoding: 123 68862 118
+GlifName: u10C_F_E_
 Width: 1577
 Flags: W
 LayerCount: 2
@@ -4017,6 +4138,7 @@ EndChar
 
 StartChar: u10CFF
 Encoding: 124 68863 119
+GlifName: u10C_F_F_
 Width: 1577
 Flags: W
 LayerCount: 2
@@ -4053,6 +4175,7 @@ EndChar
 
 StartChar: exclamdbl
 Encoding: 12 8252 120
+GlifName: exclamdbl
 Width: 595
 Flags: W
 LayerCount: 2
@@ -4084,6 +4207,7 @@ EndChar
 
 StartChar: ellipsis
 Encoding: 11 8230 121
+GlifName: ellipsis
 Width: 825
 Flags: W
 LayerCount: 2
@@ -4110,6 +4234,7 @@ EndChar
 
 StartChar: uni10C93_10CA5
 Encoding: 126 -1 122
+GlifName: uni10C_93_10C_A_5
 Width: 1441
 Flags: W
 LayerCount: 2
@@ -4139,6 +4264,7 @@ EndChar
 
 StartChar: uni200D
 Encoding: 7 8205 123
+GlifName: uni200D_
 Width: 0
 VWidth: 0
 Flags: W
@@ -4149,6 +4275,7 @@ EndChar
 
 StartChar: uni200E
 Encoding: 8 8206 124
+GlifName: uni200E_
 Width: 0
 VWidth: 0
 Flags: W
@@ -4159,6 +4286,7 @@ EndChar
 
 StartChar: uni200F
 Encoding: 9 8207 125
+GlifName: uni200F_
 Width: 0
 VWidth: 0
 Flags: W
@@ -4169,6 +4297,7 @@ EndChar
 
 StartChar: uni200C
 Encoding: 6 8204 126
+GlifName: uni200C_
 Width: 0
 VWidth: 0
 Flags: W
@@ -4179,6 +4308,7 @@ EndChar
 
 StartChar: uni10CAE_10CAE
 Encoding: 127 -1 127
+GlifName: uni10C_A_E__10C_A_E_
 Width: 1444
 Flags: W
 LayerCount: 2
@@ -4212,6 +4342,7 @@ EndChar
 
 StartChar: uni10CAE_10C93
 Encoding: 128 -1 128
+GlifName: uni10C_A_E__10C_93
 Width: 1444
 Flags: W
 LayerCount: 2
@@ -4241,6 +4372,7 @@ EndChar
 
 StartChar: uni10C92_10C90
 Encoding: 129 -1 129
+GlifName: uni10C_92_10C_90
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -4270,6 +4402,7 @@ EndChar
 
 StartChar: uni10C87_10CAF
 Encoding: 130 -1 130
+GlifName: uni10C_87_10C_A_F_
 Width: 1734
 Flags: W
 LayerCount: 2
@@ -4313,6 +4446,7 @@ EndChar
 
 StartChar: uni10C87_10CB0
 Encoding: 131 -1 131
+GlifName: uni10C_87_10C_B_0
 Width: 1436
 Flags: W
 LayerCount: 2
@@ -4345,6 +4479,7 @@ EndChar
 
 StartChar: uni10CD3_10CE5
 Encoding: 132 -1 132
+GlifName: uni10C_D_3_10C_E_5
 Width: 1441
 VWidth: 1779
 Flags: W
@@ -4375,6 +4510,7 @@ EndChar
 
 StartChar: uni10CEE_10CEE
 Encoding: 133 -1 133
+GlifName: uni10C_E_E__10C_E_E_
 Width: 1444
 VWidth: 1779
 Flags: W
@@ -4408,6 +4544,7 @@ EndChar
 
 StartChar: uni10CD3_10CEE
 Encoding: 134 -1 134
+GlifName: uni10C_D_3_10C_E_E_
 Width: 1294
 VWidth: 1779
 Flags: W
@@ -4437,6 +4574,7 @@ EndChar
 
 StartChar: uni10CD2_10CD0
 Encoding: 135 -1 135
+GlifName: uni10C_D_2_10C_D_0
 Width: 1182
 VWidth: 1779
 Flags: W
@@ -4466,6 +4604,7 @@ EndChar
 
 StartChar: uni10CC7_10CEF
 Encoding: 136 -1 136
+GlifName: uni10C_C_7_10C_E_F_
 Width: 1734
 VWidth: 1779
 Flags: W
@@ -4510,6 +4649,7 @@ EndChar
 
 StartChar: uni10CC7_10CF0
 Encoding: 137 -1 137
+GlifName: uni10C_C_7_10C_F_0
 Width: 1436
 VWidth: 1779
 Flags: W
